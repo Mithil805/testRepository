@@ -1,0 +1,21 @@
+{
+  "name": "testrepository",
+  "version": "1.0.0",
+  "description": "testRepository by Mithil Aras\r <br>\r Working with Dev Team",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mithil805/testRepository.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mithil805/testRepository/issues"
+  },
+  "homepage": "https://github.com/Mithil805/testRepository#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.10"
+  }
+}
